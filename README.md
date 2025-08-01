@@ -1,5 +1,7 @@
 # Hey there! I'm @Maxolian1020
 
+Formerly - @MinecraftPro-glitch
+
 Welcome to my GitHub profile — I'm a creative coder and LEGO enthusiast who’s always building something cool, whether it's in code or bricks.
 
 ---
