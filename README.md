@@ -1,4 +1,4 @@
-# Hey there! I'm @MinecraftPro-glitch
+# Hey there! I'm @Maxolian1020
 
 Welcome to my GitHub profile — I'm a creative coder and LEGO enthusiast who’s always building something cool, whether it's in code or bricks.
 
@@ -16,7 +16,7 @@ Welcome to my GitHub profile — I'm a creative coder and LEGO enthusiast who’
 
 ## Get in Touch
 
-You can reach me at: **minecraftguz9990@gmail.com**  
+You can reach me at: **tureen.wooden_83@icloud.com**  
 Or connect with me through GitHub Discussions or Issues!
 
 ---
@@ -26,8 +26,3 @@ Or connect with me through GitHub Discussions or Issues!
 I’m a funny guy, I love tech challenges, and I always choose creativity over convention 😎
 
 ---
-
-<!---
-MinecraftPro-glitch/MinecraftPro-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
